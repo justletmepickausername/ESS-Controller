@@ -1,0 +1,49 @@
+﻿<mah:MetroWindow 
+    x:Class="ESS_Controller.Windows.AddProductWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:local="clr-namespace:ESS_Controller.Windows"
+    mc:Ignorable="d"
+    WindowStartupLocation="CenterScreen"
+    TitleCharacterCasing="Normal"
+    Title="Add Product" Height="440" Width="520">
+
+    <StackPanel>
+
+        <TextBlock Text="Add Product" TextDecorations="Underline" FontSize="26" FontWeight="DemiBold" HorizontalAlignment="Center" Margin="0,20,0,40"/>
+
+        <StackPanel VerticalAlignment="Bottom">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="Name: " FontSize="18" Margin="0,0,10,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtboxName" mah:TextBoxHelper.Watermark="Product Name" Width="140" Padding="5" FontSize="16"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15,0,0">
+                <TextBlock Text="Cycles: " FontSize="19" Margin="0,0,12,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtboxCycles" mah:TextBoxHelper.Watermark="Cycles" Width="145" Padding="5" FontSize="16"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15,0,0">
+                <TextBlock Text="Max Temp: " FontSize="18" Margin="0,0,10,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtboxMaxTemp" mah:TextBoxHelper.Watermark="C°" Width="140" Padding="5" FontSize="16"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15,0,0">
+                <TextBlock Text="Min Temp: " FontSize="18" Margin="0,0,10,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtboxMinTemp" mah:TextBoxHelper.Watermark="C°" Width="140" Padding="5" FontSize="16"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15,0,0">
+                <TextBlock Text="Dwell Time: " FontSize="18" Margin="0,0,10,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtboxDwellTime" mah:TextBoxHelper.Watermark="Minutes" Width="140" Padding="5" FontSize="16"/>
+            </StackPanel>
+
+            <Button Name="btnAdd" Click="btnAdd_Click" Content="Add" HorizontalAlignment="Center" Width="80" FontSize="16" Margin="0,35,0,0"/>
+        </StackPanel>
+
+    </StackPanel>
+
+</mah:MetroWindow>

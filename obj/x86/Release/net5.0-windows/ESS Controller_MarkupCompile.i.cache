@@ -1,0 +1,20 @@
+﻿ESS Controller
+1.0.0.0
+
+winexe
+C#
+.cs
+F:\Repos\ESS Controller\obj\x86\Release\net5.0-windows\
+ESS_Controller
+none
+false
+TRACE;RELEASE;NET;NET5_0;NETCOREAPP
+F:\Repos\ESS Controller\App.xaml
+92040768595
+1-614866415
+21-504258604
+221-1387180787
+Windows\AddProductWindow.xaml;Windows\DisplayHistoryWindow.xaml;Windows\EditProductWindow.xaml;Windows\ESSWindow.xaml;Windows\HistoryWindow.xaml;Windows\IntroNewESSWindow.xaml;Windows\MainWindow.xaml;Windows\RemoveProductWindow.xaml;Windows\SettingsWindow.xaml;
+
+False
+

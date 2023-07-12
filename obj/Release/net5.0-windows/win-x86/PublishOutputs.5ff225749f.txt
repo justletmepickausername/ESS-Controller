@@ -1,0 +1,4 @@
+J:\Published Apps\ESS Controller\ESS Controller.pdb
+J:\Published Apps\ESS Controller\sni.dll
+J:\Published Apps\ESS Controller\SQLite.Interop.dll
+J:\Published Apps\ESS Controller\ESS Controller.exe

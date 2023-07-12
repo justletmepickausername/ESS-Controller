@@ -1,0 +1,207 @@
+﻿<mah:MetroWindow 
+    x:Class="ESS_Controller.Windows.IntroNewESSWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:ESS_Controller.Windows"
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    mc:Ignorable="d"
+    TitleCharacterCasing="Normal"
+    ResizeMode="NoResize"
+    Name="Intro"
+    WindowStartupLocation="CenterScreen"
+    IsVisibleChanged="Intro_IsVisibleChanged"   
+    Title="ESS Controller" Height="520" Width="625">
+
+    <Window.Resources>
+
+        <Style 
+            x:Key="itemstyle" 
+            TargetType="{x:Type ListViewItem}">
+            
+            <EventSetter 
+                Event="MouseDoubleClick" 
+                Handler="ListViewItem_MouseDoubleClick"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+
+        <Button
+            Name="btnExport"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Export"
+            mah:ControlsHelper.CornerRadius="0"
+            mah:ControlsHelper.ContentCharacterCasing="Normal"
+            FontSize="15"
+            Width="70"
+            Margin="3"
+            Click="btnExport_Click"/>
+
+        <Button
+            Name="btnImport"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Import"
+            mah:ControlsHelper.CornerRadius="0"
+            mah:ControlsHelper.ContentCharacterCasing="Normal"
+            FontSize="15"
+            Width="70"
+            Margin="3 40"
+            Click="btnImport_Click"/>
+
+        <Button
+            Name="btnTransferToVerified"
+            Margin="0 150 0 0"
+            mah:ControlsHelper.CornerRadius="0"
+            Content=">>"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Click="btnTransferToVerified_Click"/>
+
+        <StackPanel
+            Margin="0 20 0 0">
+
+            <TextBlock 
+                x:Name="txtblockTitle" 
+                HorizontalAlignment="Center" 
+                Text="ESS Setup" 
+                TextDecorations="Underline" 
+                FontSize="20" 
+                TextWrapping="Wrap" />
+
+            <StackPanel
+                Orientation="Vertical">
+
+                <StackPanel
+                    Margin="0 40 0 0">
+
+                    <StackPanel
+                        HorizontalAlignment="Center"
+                        Orientation="Horizontal">
+
+                        <TextBlock 
+                            Name="txtblockProducts" 
+                            Height="26" 
+                            HorizontalAlignment="Left" 
+                            Text="Product:" 
+                            FontSize="15" 
+                            TextWrapping="Wrap" 
+                            VerticalAlignment="Center"/>
+
+                        <ComboBox
+                            Margin="5 0 0 0"
+                            Name="comboboxProducts"
+                            Height="26" 
+                            SelectionChanged="comboboxProducts_SelectionChanged_1"
+                            Width="130"/>
+
+                    </StackPanel>
+
+                    <StackPanel
+                        Margin="0 15 0 0"
+                        HorizontalAlignment="Center"
+                        Orientation="Horizontal">
+
+                        <TextBlock
+                            Name="txtblockSerialNumber"
+                            Height="26"
+                            HorizontalAlignment="Left"
+                            Text="S/N:"
+                            FontSize="15"
+                            TextWrapping="Wrap"
+                            VerticalAlignment="Bottom"/>
+
+                        <TextBox
+                            Margin="5 0 0 0"
+                            Name="txtboxSerialNumber"
+                            Height="30"
+                            Width="130"
+                            HorizontalAlignment="Left"
+                            FontSize="15"
+                            mah:TextBoxHelper.Watermark="S/N"
+                            TextWrapping="Wrap"
+                            VerticalAlignment="Top"
+                            KeyDown="TextBox_KeyDown"
+                            TextChanged="txtboxSerialNumber_TextChanged"/>
+
+                    </StackPanel>
+
+                    <TextBlock
+                        Name="txtblockClickEnterHint"
+                        Text="Click Enter to add."
+                        Width="100"
+                        Height="20"
+                        Margin="40 5 0 0"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"/>
+
+                </StackPanel>
+
+                <StackPanel
+                    Margin="0 35 0 0"
+                    HorizontalAlignment="Center"
+                    Orientation="Horizontal">
+
+                    <StackPanel>
+
+                        <TextBlock
+                            Text="Temporary"
+                            FontSize="15"
+                            HorizontalAlignment="Center"/>
+
+                        <ListView
+                            ItemContainerStyle="{StaticResource itemstyle}" 
+                            Name="listViewSerialNumbers"
+                            Margin="0 5 0 0"
+                            Height="155" 
+                            Width="180" 
+                            BorderBrush="Black" 
+                            BorderThickness="0.5" 
+                            VerticalAlignment="Center" 
+                            HorizontalAlignment="Left"/>
+
+                    </StackPanel>
+
+                    <StackPanel>
+
+                        <TextBlock
+                            Name="txtblockCountSerialNumbers"
+                            Text="Count: 0"
+                            FontSize="15"
+                            HorizontalAlignment="Center"
+                            Margin="60 0 0 0"/>
+
+                        <ListView
+                            ItemContainerStyle="{StaticResource itemstyle}" 
+                            Name="listViewVerifiedSerialNumbers"
+                            Margin="60 5 0 0"
+                            Height="155" 
+                            Width="180" 
+                            BorderBrush="Black" 
+                            BorderThickness="0.5" 
+                            VerticalAlignment="Center" 
+                            HorizontalAlignment="Left"/>
+
+                    </StackPanel>
+
+                </StackPanel>
+            </StackPanel>
+
+            <Button
+                Name="btnContinue"
+                Click="btnContinue_Click"
+                Content="Continue"
+                mah:ControlsHelper.ContentCharacterCasing="Normal"
+                FontSize="15"
+                HorizontalAlignment="Center"
+                Margin="0 35 0 0"
+                VerticalAlignment="Top"
+                IsEnabled="true"/>
+
+        </StackPanel>
+    </Grid>
+</mah:MetroWindow>

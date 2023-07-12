@@ -1,0 +1,1 @@
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\win-x64\ESS Controller.csproj.AssemblyReference.cache

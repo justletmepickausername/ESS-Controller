@@ -1,0 +1,63 @@
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\ESS Controller.exe
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\ESS Controller.deps.json
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\ESS Controller.runtimeconfig.json
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\ESS Controller.runtimeconfig.dev.json
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\ESS Controller.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\ref\ESS Controller.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\ESS Controller.pdb
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\ControlzEx.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\EntityFramework.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\LiveCharts.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\LiveCharts.Wpf.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\MahApps.Metro.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\System.Data.SQLite.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\System.IO.Ports.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\System.Management.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.csproj.ResolveComReference.cache
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\DisplayHistoryWindow.g.cs
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\ESSWindow.g.cs
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\HistoryWindow.g.cs
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\IntroNewESSWindow.g.cs
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\MainWindow.g.cs
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\App.g.cs
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller_MarkupCompile.cache
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller_MarkupCompile.lref
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\App.baml
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\DisplayHistoryWindow.baml
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\ESSWindow.baml
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\HistoryWindow.baml
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\IntroNewESSWindow.baml
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\Windows\MainWindow.baml
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.g.resources
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.AssemblyInfoInputs.cache
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.AssemblyInfo.cs
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.csproj.CoreCompileInputs.cache
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.csproj.CopyComplete
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.dll
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ref\ESS Controller.dll
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.pdb
+C:\Users\sw.eng\source\repos\ESS Controller\obj\Release\net5.0-windows\ESS Controller.genruntimeconfig.cache

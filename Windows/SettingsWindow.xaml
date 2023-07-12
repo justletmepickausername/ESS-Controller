@@ -1,0 +1,29 @@
+﻿<mah:MetroWindow
+    x:Class="ESS_Controller.Windows.SettingsWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:local="clr-namespace:ESS_Controller.Windows"
+    mc:Ignorable="d"
+    WindowStartupLocation="CenterScreen"
+    TitleCharacterCasing="Normal"
+    Title="Settings" Height="280" Width="350">
+
+    <StackPanel Margin="0,10,0,0">
+
+        <TextBlock Text="Settings" TextDecorations="Underline" FontSize="26" FontWeight="DemiBold" HorizontalAlignment="Center"/>
+
+        <StackPanel Orientation="Horizontal" Margin="0,30,0,0" HorizontalAlignment="Center">
+            <StackPanel>
+                <TextBlock Text="Edit Products" TextDecorations="Underline" FontSize="20" HorizontalAlignment="Center"/>
+                <Button Content="Add Product" Margin="0,20,0,0" HorizontalAlignment="Center" Name="btnAddProduct" Click="btnAddProduct_Click"/>
+                <Button Content=" Edit Product " Margin="0,10,0,0" HorizontalAlignment="Center" Name="btnEditProduct" Click="btnEditProduct_Click"/>
+                <Button Content="Remove Product" Margin="0,10,0,0" HorizontalAlignment="Center" Name="btnRemoveProduct" Click="btnRemoveProduct_Click"/>
+            </StackPanel>
+        </StackPanel>
+        
+    </StackPanel>
+    
+</mah:MetroWindow>

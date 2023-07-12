@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b4d19cd-e3a9-4998-abd8-3dd556f0b9d1": {
+      "ProjectGuid": "9b4d19cd-e3a9-4998-abd8-3dd556f0b9d1",
+      "DisplayName": "ESS Controller",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,26 @@
+﻿<mah:MetroWindow x:Class="ESS_Controller.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:ESS_Controller"
+        mc:Ignorable="d"
+        Title="ESS Controller"
+        Height="300"
+        Width="375"
+        Name="MainMenu"
+        IsCloseButtonEnabled="False"
+        TitleCharacterCasing="Normal"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize">
+    
+    <StackPanel VerticalAlignment="Center">
+
+        <Button Name="btnNewESSProcess" Click="btnNewESSProcess_Click" Content="New ESS Process" Height="45" Width="200" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,0,0,0" mah:ControlsHelper.ContentCharacterCasing="Normal"/>
+        <Button Name="btnHistory" Click="btnHistory_Click" Content="History" Height="45" Width="200" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,15,0,0" mah:ControlsHelper.ContentCharacterCasing="Normal"/>
+        <Button Name="btnSettings" Click="btnSettings_Click" Content="Settings" Height="45" Width="200" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,15,0,0" mah:ControlsHelper.ContentCharacterCasing="Normal"/>
+        <Button Name="btnExit" Click="btnExit_Click" Content="Exit" Height="45" Width="200" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,15,0,0" mah:ControlsHelper.ContentCharacterCasing="Normal"/>
+
+    </StackPanel>
+</mah:MetroWindow>

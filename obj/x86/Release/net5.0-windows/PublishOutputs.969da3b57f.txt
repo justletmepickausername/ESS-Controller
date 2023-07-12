@@ -1,0 +1,51 @@
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\ESS Controller.exe
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\ESS Controller.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\ESS Controller.deps.json
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\ESS Controller.runtimeconfig.json
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\ESS Controller.pdb
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\ControlzEx.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\DnsClient.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\EntityFramework.SqlServer.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\EntityFramework.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\LiveCharts.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\LiveCharts.Wpf.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\MahApps.Metro.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\Microsoft.Xaml.Behaviors.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\MongoDB.Bson.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\MongoDB.Driver.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\MongoDB.Driver.Core.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\MongoDB.Libmongocrypt.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\SharpCompress.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\System.Data.SQLite.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\System.Data.SqlClient.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\System.Data.SQLite.EF6.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\System.IO.Ports.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\System.Management.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\de\MahApps.Metro.resources.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\linux\native\libsnappy64.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\linux\native\libzstd.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\osx\native\libsnappy64.dylib
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\osx\native\libzstd.dylib
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win\native\libzstd.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win\native\snappy32.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win\native\snappy64.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\linux\native\libmongocrypt.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win\native\mongocrypt.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\sw.eng\source\repos\ESS Controller\bin\Release\net5.0-windows\app.publish\runtimes\win\lib\netcoreapp2.0\System.Management.dll
